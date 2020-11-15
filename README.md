@@ -6,5 +6,7 @@
 
 {% page-ref page="button.md" %}
 
+{% page-ref page="shooting\_game.md" %}
+
 
 

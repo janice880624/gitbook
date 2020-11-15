@@ -24,3 +24,7 @@ description: 'micro:bit 上有兩顆按鈕'
 
 ![](.gitbook/assets/jie-tu-20201112-xia-wu-4.52.34.png)
 
+### 💻 計分器
+
+![](.gitbook/assets/image%20%2818%29.png)
+
