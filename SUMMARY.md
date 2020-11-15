@@ -5,6 +5,7 @@
 * [LED](led.md)
 * [按鈕](button.md)
 * [射擊遊戲](shooting_game.md)
-* [猴子接香蕉\(基本款\)](hou-zi-jie-xiang-jiao-ji-ben-kuan.md)
-* [溫度感測](wen-du-gan-ce.md)
+* [猴子接香蕉\(基本款\)](monkey_banana.md)
+* [溫度感測](tempture.md)
+* [指南針](compass.md)
 

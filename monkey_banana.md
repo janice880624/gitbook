@@ -20,7 +20,7 @@
 
 #### 遊戲開始
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 ### 👉程式下載
 
