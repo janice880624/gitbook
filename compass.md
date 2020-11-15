@@ -1,5 +1,5 @@
 ---
-description: 'micro:bit 內建包含指南針，主要功能利用磁力感測器偵測特定方向的磁力感應值'
+description: 'Micro:bit 內建包含指南針，主要功能利用磁力感測器偵測特定方向的磁力感應值'
 ---
 
 # 指南針
@@ -14,17 +14,17 @@ step1. 再**更多**的類別中找到**電子羅盤校準**積木
 如果第一次使用，建議先校正墊子羅盤
 {% endhint %}
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 step2. 儲存檔案，下載到 micro:bit 進行校準
 
 step3. 校準時請將螢幕搖動，直到螢幕佈滿燈
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 
 step4. 完成後會出現笑臉
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 ### 💻 數值讀取
 
@@ -63,7 +63,11 @@ step4. 完成後會出現笑臉
   </tbody>
 </table>
 
+![](.gitbook/assets/image%20%2825%29.png)
+
 ### 💻 程式下載
 
 {% file src=".gitbook/assets/dian-zi-luo-pan-xiao-zheng-.hex" %}
+
+{% file src=".gitbook/assets/zhi-nan-zhen-.hex" %}
 

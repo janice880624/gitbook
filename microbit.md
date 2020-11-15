@@ -1,4 +1,4 @@
-# Micro:bit 微型電腦
+# Micro:bit 簡介
 
 micro:bit 板子重量約 5 公克而且大小只有 4×5 公分，攜帶方便，英國廣播公司 BBC（British Broadcasting Corporation）於西元 2016 年 3 月與美國微軟、韓國三星及美國 ARM⋯等公司共同合作所開發出來的。
 
