@@ -2,7 +2,7 @@
 
 ### 👉 遊戲設計
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 ### 👉遊戲內容
 
@@ -22,7 +22,7 @@
 
 ![](.gitbook/assets/image%20%2819%29.png)
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 #### 遊戲開始
 

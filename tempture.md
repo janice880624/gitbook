@@ -6,9 +6,9 @@ description: 'micro:bit 上的處理器內包含溫度感應器，用來偵測�
 
 ### 💻 顯示溫度數值
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 ### 💻 加入判斷式
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
