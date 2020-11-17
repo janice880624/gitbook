@@ -22,6 +22,8 @@
 
 {% page-ref page="kuo-chong-tao-jian.md" %}
 
+{% page-ref page="debug.md" %}
+
 
 
 
