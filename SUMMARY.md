@@ -12,4 +12,5 @@
 * [光線感應器](light.md)
 * [MoonCar](mooncar.md)
 * [擴充套件](kuo-chong-tao-jian.md)
+* [Debug](debug.md)
 
