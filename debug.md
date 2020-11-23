@@ -1,5 +1,5 @@
 ---
-description: 用 microbit 可能會遇到的狀況
+description: 用 microbit 可能會遇到的幾種狀況
 ---
 
 # Debug
