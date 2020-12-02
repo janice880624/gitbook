@@ -45,16 +45,23 @@
 
 #### 燈串
 
-* 接線圖 ![](https://i.imgur.com/wCFlgcD.png)
-* 程式 ![](https://i.imgur.com/NPBxvsW.png)
+![&#x63A5;&#x7DDA;&#x5716;](https://i.imgur.com/wCFlgcD.png)
+
+
+
+![&#x7A0B;&#x5F0F;&#x5716;](https://i.imgur.com/NPBxvsW.png)
 
 #### MP3 模組
 
-* 接線圖 ![](https://i.imgur.com/OQWZMfg.png)
-* 程式 ![](https://i.imgur.com/VBT46jy.png)
+
+
+![&#x63A5;&#x7DDA;&#x5716;](https://i.imgur.com/OQWZMfg.png)
+
+![&#x7A0B;&#x5F0F;&#x5716;](https://i.imgur.com/VBT46jy.png)
 
 #### 完整程式
 
-* 接線圖 ![](https://i.imgur.com/eVb2SRn.png)
-* 程式 ![](https://i.imgur.com/Wx5rLUX.png)
+![&#x63A5;&#x7DDA;&#x5716;](https://i.imgur.com/eVb2SRn.png)
+
+![&#x7A0B;&#x5F0F;&#x5716;](https://i.imgur.com/Wx5rLUX.png)
 
